@@ -9,4 +9,3 @@ int main()
     cout << num << "is num";
     return 0;
 }
-// Me hu harish
